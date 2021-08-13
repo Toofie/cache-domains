@@ -9,7 +9,6 @@
 	},
 	"cache_domains": {
 		"default": 	"generic",
-		"blizzard": 	"blizzard",
 		"origin": 	"origin",
 		"riot": 	"riot",
 		"steam": 	"steam",
